@@ -1,6 +1,6 @@
 # Hi there, I'm Lorenzo Grandi!
 
-I'm a passionate developer with a love for learning and exploring new technologies. Welcome to my GitHub profile!
+I'm an electronic engineer specialized in embedded systems and AI technologies. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
