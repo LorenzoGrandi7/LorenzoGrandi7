@@ -5,7 +5,6 @@ I'm an electronic engineer specialized in embedded systems and AI technologies.
 ## Technologies & Tools
 
 - **Languages:** Python, Java, C, C++
-- **DevOps:** Docker
 - **Version Control:** Git, GitHub
 - **Cloud:** AWS, InfluxDB
 
